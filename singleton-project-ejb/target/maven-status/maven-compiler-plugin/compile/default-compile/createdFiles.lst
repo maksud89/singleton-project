@@ -1,0 +1,4 @@
+org\singleton\project\ejb\AppServiceOne.class
+org\singleton\project\ejb\NoInterfaceBeanOne.class
+org\singleton\project\ejb\NoInterfaceBeanTwo.class
+org\singleton\project\ejb\AppService.class
